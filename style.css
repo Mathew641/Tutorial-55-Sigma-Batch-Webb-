@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 100vw;
+    height: 100dvh;
+    background-color: gray;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.container{
+    width: 80%;
+    height: 90%;
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    margin: 10rem auto;
+    padding-top: 56px;
+    padding-left: 57px;
+    padding-right: 57px;
+}
+
